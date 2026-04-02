@@ -28,9 +28,9 @@ Sou estudante de **Inteligência Artificial** com um perfil focado em tecnologia
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitor985-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor985-hub&layout=compact&theme=radical" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vitor985-hub&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vitor985-hub&layout=compact&theme=radical"/>
 </p>
 
 ---
